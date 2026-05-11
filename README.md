@@ -1,1 +1,1 @@
-#Kamüs Yaşmı
+# Kampüs Yaşmı
