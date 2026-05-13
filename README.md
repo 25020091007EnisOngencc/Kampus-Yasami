@@ -40,4 +40,3 @@ Projenin geliştirme ve test süreçleri aşağıdaki yüksek performanslı dona
 *Kahramanmaraş İstiklal Üniversitesi - Yazılım Mühendisliği Bölümü*
 
 ---
-*Bu proje akademik çalışmalar kapsamında geliştirilmiştir.*
