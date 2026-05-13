@@ -12,6 +12,8 @@ Aşağıda uygulamanın arayüzüne ait ekran görüntülerini inceleyebilirsini
   <img width="100%" alt="Ekran görüntüsü 2" src="https://github.com/user-attachments/assets/7b0dd751-a1fd-4bcc-9153-185e88add8d7" />
 </p>
 
+---
+
 ## 🛠 Kullanılan Teknolojiler ve Diller
 
 Bu proje, modern mobil geliştirme standartları takip edilerek aşağıdaki diller ve araçlar ile inşa edilmiştir:
@@ -21,10 +23,14 @@ Bu proje, modern mobil geliştirme standartları takip edilerek aşağıdaki dil
 *   **Arayüz Tasarımı:** XML (Modern & Premium UI)
 *   **Mimari:** Intent-based Navigation & Activity Lifecycle
 
+---
+
 ## 🚀 Proje Özellikleri
 *   Modern, şık ve premium UI/UX tasarımı.
 *   Öğrenciler arası etkileşimi ve kampüs içi bilgi akışını hızlandıran modüller.
 *   Android Studio üzerinde stabil ve yüksek performanslı yapı.
+
+---
 
 ## 💻 Geliştirme Ortamı ve Donanım
 Projenin geliştirme ve test süreçleri aşağıdaki yüksek performanslı donanım üzerinde tamamlanmıştır:
@@ -33,6 +39,8 @@ Projenin geliştirme ve test süreçleri aşağıdaki yüksek performanslı dona
 *   **Grafik Birimi (GPU):** NVIDIA GeForce RTX 5060
 *   **Bellek (RAM):** 32 GB
 *   **İşletim Sistemi:** Windows / Android Emulator
+
+---
 
 ## 👨‍💻 Geliştirici
 
